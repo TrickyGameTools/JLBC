@@ -4,4 +4,5 @@ MKL_*
 *.MKL.*
 TestCompilation
 *.jcr
-
+*.lbc
+y
