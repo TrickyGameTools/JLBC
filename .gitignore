@@ -2,3 +2,6 @@
 Compile/*
 MKL_*
 *.MKL.*
+TestCompilation
+*.jcr
+
