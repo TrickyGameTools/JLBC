@@ -1,0 +1,4 @@
+.vs
+Compile/*
+MKL_*
+*.MKL.*
